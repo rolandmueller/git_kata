@@ -1,3 +1,3 @@
 # git_kata
 
-Test
+Test 2
